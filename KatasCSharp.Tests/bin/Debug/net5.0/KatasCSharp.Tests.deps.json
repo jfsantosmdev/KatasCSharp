@@ -9,6 +9,7 @@
       "KatasCSharp.Tests/1.0.0": {
         "dependencies": {
           "KatasCSharp.FizzBuzz": "1.0.0",
+          "KatasCSharp.StopSpinningMyWords": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.9.4",
           "NUnit": "3.13.3",
           "NUnit3TestAdapter": "3.17.0",
@@ -877,6 +878,11 @@
         "runtime": {
           "KatasCSharp.FizzBuzz.dll": {}
         }
+      },
+      "KatasCSharp.StopSpinningMyWords/1.0.0": {
+        "runtime": {
+          "KatasCSharp.StopSpinningMyWords.dll": {}
+        }
       }
     }
   },
@@ -1342,6 +1348,11 @@
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
     "KatasCSharp.FizzBuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KatasCSharp.StopSpinningMyWords/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

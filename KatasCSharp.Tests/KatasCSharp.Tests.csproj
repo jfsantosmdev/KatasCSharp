@@ -16,6 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\FizzBuzz\KatasCSharp.FizzBuzz.csproj" />
     <ProjectReference Include="..\KatasCSharp.FizzBuzz\KatasCSharp.FizzBuzz.csproj" />
+    <ProjectReference Include="..\KatasCSharp.StopSpinningMyWords\KatasCSharp.StopSpinningMyWords.csproj" />
   </ItemGroup>
 
 </Project>

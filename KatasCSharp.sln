@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KatasCSharp.Tests", "KatasC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KatasCSharp.FizzBuzz", "KatasCSharp.FizzBuzz\KatasCSharp.FizzBuzz.csproj", "{D4C1C6EF-8912-4846-A27A-598D5932E810}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatasCSharp.StopSpinningMyWords", "KatasCSharp.StopSpinningMyWords\KatasCSharp.StopSpinningMyWords.csproj", "{F6577B73-A0AF-4645-B578-82227B180F36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D4C1C6EF-8912-4846-A27A-598D5932E810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4C1C6EF-8912-4846-A27A-598D5932E810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4C1C6EF-8912-4846-A27A-598D5932E810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6577B73-A0AF-4645-B578-82227B180F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6577B73-A0AF-4645-B578-82227B180F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6577B73-A0AF-4645-B578-82227B180F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6577B73-A0AF-4645-B578-82227B180F36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

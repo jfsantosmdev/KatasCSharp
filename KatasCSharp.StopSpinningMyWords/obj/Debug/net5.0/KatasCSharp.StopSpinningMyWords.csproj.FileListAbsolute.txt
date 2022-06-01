@@ -1,0 +1,12 @@
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\bin\Debug\net5.0\KatasCSharp.StopSpinningMyWords.deps.json
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\bin\Debug\net5.0\KatasCSharp.StopSpinningMyWords.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\bin\Debug\net5.0\KatasCSharp.StopSpinningMyWords.pdb
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\obj\Debug\net5.0\KatasCSharp.StopSpinningMyWords.csproj.AssemblyReference.cache
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\obj\Debug\net5.0\KatasCSharp.StopSpinningMyWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\obj\Debug\net5.0\KatasCSharp.StopSpinningMyWords.AssemblyInfoInputs.cache
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\obj\Debug\net5.0\KatasCSharp.StopSpinningMyWords.AssemblyInfo.cs
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\obj\Debug\net5.0\KatasCSharp.StopSpinningMyWords.csproj.CoreCompileInputs.cache
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\obj\Debug\net5.0\KatasCSharp.StopSpinningMyWords.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\obj\Debug\net5.0\refint\KatasCSharp.StopSpinningMyWords.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\obj\Debug\net5.0\KatasCSharp.StopSpinningMyWords.pdb
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.StopSpinningMyWords\obj\Debug\net5.0\ref\KatasCSharp.StopSpinningMyWords.dll

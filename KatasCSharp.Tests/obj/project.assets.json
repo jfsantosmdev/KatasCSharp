@@ -1266,6 +1266,16 @@
         "runtime": {
           "bin/placeholder/KatasCSharp.FizzBuzz.dll": {}
         }
+      },
+      "KatasCSharp.StopSpinningMyWords/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/KatasCSharp.StopSpinningMyWords.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KatasCSharp.StopSpinningMyWords.dll": {}
+        }
       }
     }
   },
@@ -4960,11 +4970,17 @@
       "type": "project",
       "path": "../KatasCSharp.FizzBuzz/KatasCSharp.FizzBuzz.csproj",
       "msbuildProject": "../KatasCSharp.FizzBuzz/KatasCSharp.FizzBuzz.csproj"
+    },
+    "KatasCSharp.StopSpinningMyWords/1.0.0": {
+      "type": "project",
+      "path": "../KatasCSharp.StopSpinningMyWords/KatasCSharp.StopSpinningMyWords.csproj",
+      "msbuildProject": "../KatasCSharp.StopSpinningMyWords/KatasCSharp.StopSpinningMyWords.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "KatasCSharp.FizzBuzz >= 1.0.0",
+      "KatasCSharp.StopSpinningMyWords >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.3",
       "NUnit3TestAdapter >= 3.17.0",
@@ -5003,6 +5019,9 @@
             },
             "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.FizzBuzz\\KatasCSharp.FizzBuzz.csproj": {
               "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.FizzBuzz\\KatasCSharp.FizzBuzz.csproj"
+            },
+            "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.StopSpinningMyWords\\KatasCSharp.StopSpinningMyWords.csproj": {
+              "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.StopSpinningMyWords\\KatasCSharp.StopSpinningMyWords.csproj"
             }
           }
         }
