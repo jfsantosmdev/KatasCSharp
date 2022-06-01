@@ -104,3 +104,5 @@ D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\refint\KatasCShar
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\KatasCSharp.Tests.pdb
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\KatasCSharp.Tests.genruntimeconfig.cache
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\ref\KatasCSharp.Tests.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.DetectPangram.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.DetectPangram.pdb

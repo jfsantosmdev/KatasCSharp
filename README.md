@@ -3,12 +3,14 @@
 This is a collection of code katas with C#
 
 - FizzBuzz
+- Stop Spinning My Words
+- Is Pandram?
 
-# FizzBuzz
+# Fizz Buzz
 
 FizzBuzz is a group words game where players take turns to count incrementally, replacing any number divisible by three with the word "Fizz", any number divisible by five with the word "Buzz" and if is divisible by three and five with the words "Fizz Buzz"
 
-Example:
+Examples:
 
 - 1 => 1
 - 2 => 2
@@ -36,4 +38,14 @@ Examples:
 - "This is a test" => "This is a test"
 - "This is another test" => "This is rehtona test"
 
-Kata obtained from https://www.codewars.com/kata/5264d2b162488dc400000001/csharp
+Kata obtained from https://www.codewars.com/kata/5264d2b162488dc400000001
+
+# Is Pandram?
+A pangram is a sentence that contains every single letter of the alphabet at least once. 
+
+Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
+
+Example: 
+- "The quick brown fox jumps over the lazy dog" => true
+
+Kata obtained from https://www.codewars.com/kata/545cedaa9943f7fe7b000048

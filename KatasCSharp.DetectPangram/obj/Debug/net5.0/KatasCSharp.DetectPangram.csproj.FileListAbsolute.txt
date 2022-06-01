@@ -1,0 +1,12 @@
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\bin\Debug\net5.0\KatasCSharp.DetectPangram.deps.json
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\bin\Debug\net5.0\KatasCSharp.DetectPangram.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\bin\Debug\net5.0\KatasCSharp.DetectPangram.pdb
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\obj\Debug\net5.0\KatasCSharp.DetectPangram.csproj.AssemblyReference.cache
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\obj\Debug\net5.0\KatasCSharp.DetectPangram.GeneratedMSBuildEditorConfig.editorconfig
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\obj\Debug\net5.0\KatasCSharp.DetectPangram.AssemblyInfoInputs.cache
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\obj\Debug\net5.0\KatasCSharp.DetectPangram.AssemblyInfo.cs
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\obj\Debug\net5.0\KatasCSharp.DetectPangram.csproj.CoreCompileInputs.cache
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\obj\Debug\net5.0\KatasCSharp.DetectPangram.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\obj\Debug\net5.0\refint\KatasCSharp.DetectPangram.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\obj\Debug\net5.0\KatasCSharp.DetectPangram.pdb
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.DetectPangram\obj\Debug\net5.0\ref\KatasCSharp.DetectPangram.dll

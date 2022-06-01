@@ -1254,6 +1254,16 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "KatasCSharp.DetectPangram/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/KatasCSharp.DetectPangram.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KatasCSharp.DetectPangram.dll": {}
+        }
+      },
       "KatasCSharp.FizzBuzz/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -4966,6 +4976,11 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "KatasCSharp.DetectPangram/1.0.0": {
+      "type": "project",
+      "path": "../KatasCSharp.DetectPangram/KatasCSharp.DetectPangram.csproj",
+      "msbuildProject": "../KatasCSharp.DetectPangram/KatasCSharp.DetectPangram.csproj"
+    },
     "KatasCSharp.FizzBuzz/1.0.0": {
       "type": "project",
       "path": "../KatasCSharp.FizzBuzz/KatasCSharp.FizzBuzz.csproj",
@@ -4979,6 +4994,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "KatasCSharp.DetectPangram >= 1.0.0",
       "KatasCSharp.FizzBuzz >= 1.0.0",
       "KatasCSharp.StopSpinningMyWords >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
@@ -5016,6 +5032,9 @@
           "projectReferences": {
             "D:\\jfsantosmdev\\KatasCSharp\\FizzBuzz\\KatasCSharp.FizzBuzz.csproj": {
               "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\FizzBuzz\\KatasCSharp.FizzBuzz.csproj"
+            },
+            "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.DetectPangram\\KatasCSharp.DetectPangram.csproj": {
+              "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.DetectPangram\\KatasCSharp.DetectPangram.csproj"
             },
             "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.FizzBuzz\\KatasCSharp.FizzBuzz.csproj": {
               "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.FizzBuzz\\KatasCSharp.FizzBuzz.csproj"
