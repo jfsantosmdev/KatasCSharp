@@ -1,0 +1,12 @@
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\bin\Debug\net5.0\FizzBuzz.deps.json
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\bin\Debug\net5.0\FizzBuzz.dll
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\bin\Debug\net5.0\FizzBuzz.pdb
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.AssemblyReference.cache
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfoInputs.cache
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfo.cs
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.dll
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\obj\Debug\net5.0\refint\FizzBuzz.dll
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.pdb
+D:\jfsantosmdev\KatasCSharp\FizzBuzz\obj\Debug\net5.0\ref\FizzBuzz.dll

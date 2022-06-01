@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cxlBPee09PEOKBOWfkA5OtaYpadz/avNQRpp6L9b6TiK6NY40HeCAo4pxFXWkhBnvi4z+zlgylsgoRKoW9WpYQ==",
+  "success": true,
+  "projectFilePath": "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.FizzBuzz\\KatasCSharp.FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jfern\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jfern\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\jfern\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
