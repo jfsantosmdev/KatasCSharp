@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KatasCSharp.Tests", "KatasC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KatasCSharp.FizzBuzz", "KatasCSharp.FizzBuzz\KatasCSharp.FizzBuzz.csproj", "{D4C1C6EF-8912-4846-A27A-598D5932E810}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatasCSharp.StopSpinningMyWords", "KatasCSharp.StopSpinningMyWords\KatasCSharp.StopSpinningMyWords.csproj", "{F6577B73-A0AF-4645-B578-82227B180F36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KatasCSharp.StopSpinningMyWords", "KatasCSharp.StopSpinningMyWords\KatasCSharp.StopSpinningMyWords.csproj", "{F6577B73-A0AF-4645-B578-82227B180F36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatasCSharp.DetectPangram", "KatasCSharp.DetectPangram\KatasCSharp.DetectPangram.csproj", "{285DE6C3-F089-4516-BB01-89C867EBEF24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KatasCSharp.DetectPangram", "KatasCSharp.DetectPangram\KatasCSharp.DetectPangram.csproj", "{285DE6C3-F089-4516-BB01-89C867EBEF24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatasCSharp.SumOfOddNumbers", "SumOfOddNumbers\KatasCSharp.SumOfOddNumbers.csproj", "{2F316BC4-19EA-4EB0-9EF9-E1541830B291}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KatasCSharp.SumOfOddNumbers", "KatasCSharp.SumOfOddNumbers\KatasCSharp.SumOfOddNumbers.csproj", "{42A2FB71-E77D-4A73-A844-36648F168127}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{285DE6C3-F089-4516-BB01-89C867EBEF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{285DE6C3-F089-4516-BB01-89C867EBEF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{285DE6C3-F089-4516-BB01-89C867EBEF24}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2F316BC4-19EA-4EB0-9EF9-E1541830B291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F316BC4-19EA-4EB0-9EF9-E1541830B291}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F316BC4-19EA-4EB0-9EF9-E1541830B291}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F316BC4-19EA-4EB0-9EF9-E1541830B291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A2FB71-E77D-4A73-A844-36648F168127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A2FB71-E77D-4A73-A844-36648F168127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A2FB71-E77D-4A73-A844-36648F168127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A2FB71-E77D-4A73-A844-36648F168127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

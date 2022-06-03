@@ -5003,8 +5003,8 @@
     },
     "KatasCSharp.SumOfOddNumbers/1.0.0": {
       "type": "project",
-      "path": "../SumOfOddNumbers/KatasCSharp.SumOfOddNumbers.csproj",
-      "msbuildProject": "../SumOfOddNumbers/KatasCSharp.SumOfOddNumbers.csproj"
+      "path": "../KatasCSharp.SumOfOddNumbers/KatasCSharp.SumOfOddNumbers.csproj",
+      "msbuildProject": "../KatasCSharp.SumOfOddNumbers/KatasCSharp.SumOfOddNumbers.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5054,6 +5054,9 @@
             },
             "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.StopSpinningMyWords\\KatasCSharp.StopSpinningMyWords.csproj": {
               "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.StopSpinningMyWords\\KatasCSharp.StopSpinningMyWords.csproj"
+            },
+            "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.SumOfOddNumbers\\KatasCSharp.SumOfOddNumbers.csproj": {
+              "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.SumOfOddNumbers\\KatasCSharp.SumOfOddNumbers.csproj"
             },
             "D:\\jfsantosmdev\\KatasCSharp\\SumOfOddNumbers\\KatasCSharp.SumOfOddNumbers.csproj": {
               "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\SumOfOddNumbers\\KatasCSharp.SumOfOddNumbers.csproj"
