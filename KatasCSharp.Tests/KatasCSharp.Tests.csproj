@@ -18,7 +18,6 @@
     <ProjectReference Include="..\KatasCSharp.FizzBuzz\KatasCSharp.FizzBuzz.csproj" />
     <ProjectReference Include="..\KatasCSharp.StopSpinningMyWords\KatasCSharp.StopSpinningMyWords.csproj" />
     <ProjectReference Include="..\KatasCSharp.SumOfOddNumbers\KatasCSharp.SumOfOddNumbers.csproj" />
-    <ProjectReference Include="..\SumOfOddNumbers\KatasCSharp.SumOfOddNumbers.csproj" />
   </ItemGroup>
 
 </Project>
