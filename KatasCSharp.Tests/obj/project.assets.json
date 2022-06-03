@@ -1286,6 +1286,16 @@
         "runtime": {
           "bin/placeholder/KatasCSharp.StopSpinningMyWords.dll": {}
         }
+      },
+      "KatasCSharp.SumOfOddNumbers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/KatasCSharp.SumOfOddNumbers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KatasCSharp.SumOfOddNumbers.dll": {}
+        }
       }
     }
   },
@@ -4990,6 +5000,11 @@
       "type": "project",
       "path": "../KatasCSharp.StopSpinningMyWords/KatasCSharp.StopSpinningMyWords.csproj",
       "msbuildProject": "../KatasCSharp.StopSpinningMyWords/KatasCSharp.StopSpinningMyWords.csproj"
+    },
+    "KatasCSharp.SumOfOddNumbers/1.0.0": {
+      "type": "project",
+      "path": "../SumOfOddNumbers/KatasCSharp.SumOfOddNumbers.csproj",
+      "msbuildProject": "../SumOfOddNumbers/KatasCSharp.SumOfOddNumbers.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4997,6 +5012,7 @@
       "KatasCSharp.DetectPangram >= 1.0.0",
       "KatasCSharp.FizzBuzz >= 1.0.0",
       "KatasCSharp.StopSpinningMyWords >= 1.0.0",
+      "KatasCSharp.SumOfOddNumbers >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.3",
       "NUnit3TestAdapter >= 3.17.0",
@@ -5030,9 +5046,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\jfsantosmdev\\KatasCSharp\\FizzBuzz\\KatasCSharp.FizzBuzz.csproj": {
-              "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\FizzBuzz\\KatasCSharp.FizzBuzz.csproj"
-            },
             "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.DetectPangram\\KatasCSharp.DetectPangram.csproj": {
               "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.DetectPangram\\KatasCSharp.DetectPangram.csproj"
             },
@@ -5041,6 +5054,9 @@
             },
             "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.StopSpinningMyWords\\KatasCSharp.StopSpinningMyWords.csproj": {
               "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\KatasCSharp.StopSpinningMyWords\\KatasCSharp.StopSpinningMyWords.csproj"
+            },
+            "D:\\jfsantosmdev\\KatasCSharp\\SumOfOddNumbers\\KatasCSharp.SumOfOddNumbers.csproj": {
+              "projectPath": "D:\\jfsantosmdev\\KatasCSharp\\SumOfOddNumbers\\KatasCSharp.SumOfOddNumbers.csproj"
             }
           }
         }

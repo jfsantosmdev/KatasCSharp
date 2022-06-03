@@ -89,10 +89,14 @@ D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\zh-Hans\Microsoft
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.DetectPangram.dll
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.FizzBuzz.dll
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.StopSpinningMyWords.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.SumOfOddNumbers.dll
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.DetectPangram.pdb
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.FizzBuzz.pdb
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.StopSpinningMyWords.pdb
+D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.SumOfOddNumbers.pdb
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\KatasCSharp.Tests.csproj.AssemblyReference.cache
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\KatasCSharp.Tests.GeneratedMSBuildEditorConfig.editorconfig
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\KatasCSharp.Tests.AssemblyInfoInputs.cache
@@ -104,5 +108,3 @@ D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\refint\KatasCShar
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\KatasCSharp.Tests.pdb
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\KatasCSharp.Tests.genruntimeconfig.cache
 D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\obj\Debug\net5.0\ref\KatasCSharp.Tests.dll
-D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.DetectPangram.dll
-D:\jfsantosmdev\KatasCSharp\KatasCSharp.Tests\bin\Debug\net5.0\KatasCSharp.DetectPangram.pdb
